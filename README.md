@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://samarblogs.vercel.app/" target="_blank">samarblogs.vercel.app</a>
+  <a href="https://bits-0f-code.vercel.app/" target="_blank">samarblogs.vercel.app</a>
 </h2>
 
 <br/>
